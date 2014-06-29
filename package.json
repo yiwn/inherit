@@ -1,0 +1,30 @@
+{
+  "name": "yiwn-inherit",
+  "description": "Extend functionality and setup prototype chain from subclasses.",
+  "version": "0.1.0",
+  "author": "Mushex Antaranian",
+  "keywords": [
+    "extend",
+    "yiwn"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/yiwn/inherit.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "component": "^1.0.0-rc5",
+    "mocha": "^1.20.1",
+    "jshint": "^2.5.1",
+    "chai": "^1.9.1"
+  },
+  "dependencies": {
+    "yiwn-extend": "^1.0.1"
+  }
+}
