@@ -2,7 +2,7 @@
   "name": "inherit",
   "repo": "yiwn/inherit",
   "description": "Extend functionality and setup prototype chain from subclasses.",
-  "version": "0.1.3",
+  "version": "0.1.0",
   "keywords": [
     "yiwn",
     "inherit"
