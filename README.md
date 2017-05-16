@@ -60,7 +60,7 @@ child.print(); // -> undefined, 'Boo!!!!'
 
 ## Test
 
-Run tests with [mocha](http://visionmedia.github.io/mocha)
+Run tests with [mocha](http://mochajs.org/)
 
     $ make test
 
